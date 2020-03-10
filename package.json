@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patidarmanoj10/ledger-nono-provider.git"
+    "url": "git+https://github.com/patidarmanoj10/ledger-provider.git"
   },
   "author": "manoj@bloq.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patidarmanoj10/ledger-nono-provider/issues"
+    "url": "https://github.com/patidarmanoj10/ledger-provider/issues"
   },
-  "homepage": "https://github.com/patidarmanoj10/ledger-nono-provider#readme",
+  "homepage": "https://github.com/patidarmanoj10/ledger-provider#readme",
   "dependencies": {
     "@ledgerhq/hw-app-eth": "^5.11.0",
     "@ledgerhq/hw-transport-node-hid": "^5.11.0",
